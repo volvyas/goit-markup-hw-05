@@ -121,3 +121,7 @@ body {
 .flex-gap-120 {
     gap: 120px;
 }
+
+.p-rel {
+    position: relative;
+}
