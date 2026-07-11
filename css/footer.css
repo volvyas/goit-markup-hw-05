@@ -45,7 +45,7 @@
 }
 
 .footer-socials {
-    margin-right: 82px;
+    margin-right: 83px;
 }
 
 .footer-socials-header {
@@ -95,7 +95,7 @@
 .footer-submit-btn {
     display: flex;
     align-items: center;
-    gap: 16px;
+    gap: 15px;
     padding: 8px 24px;
     color: #FFF;
     font-weight: 500;
